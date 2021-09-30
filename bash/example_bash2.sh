@@ -1,5 +1,7 @@
 #! /bin/bash
 
+echo "Gabagool??? Ova heeeeeere?"
+
 echo "Hi again from bash."
 
 echo "Hi from GitHub."
