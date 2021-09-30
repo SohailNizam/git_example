@@ -4,3 +4,6 @@ a <- rnorm(100)
 plot(a)
 
 mean(a)
+
+# compute the sd 
+sd(a)
