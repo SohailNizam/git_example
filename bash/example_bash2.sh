@@ -4,5 +4,5 @@ echo "Hi again from bash."
 
 for i in `seq 1 20 `
 do
-	echo "This is iteration $i. Isnt it wonderful?"
+	echo "This is iteration $i. Its so great."
 done
